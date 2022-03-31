@@ -1,0 +1,27 @@
+
+.copy_right_footer {
+    text-align: center;
+    font-size: medium;
+}
+
+body {
+    font-family: 'Patrick Hand', cursive;
+    background-color: lavenderblush;
+}
+
+.header_div {
+    color:rgb(255, 255, 255);
+    background-color:floralwhite;
+}
+
+.main_div button {
+     margin: 30px;
+     width: 130px;
+     letter-spacing: 3px;
+     border: 3px;
+     border-style: ridge;
+     border-color: #ffc0d0;
+     border-radius: 15px;
+     font-size: medium;
+}
+
