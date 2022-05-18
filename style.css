@@ -1,4 +1,3 @@
-
 .copy_right_footer {
     text-align: center;
     font-size: medium;
@@ -10,18 +9,21 @@ body {
 }
 
 .header_div {
-    color:rgb(255, 255, 255);
-    background-color:floralwhite;
+    color: rgb(255, 255, 255);
+    background-color: floralwhite;
 }
 
 .main_div button {
-     margin: 30px;
-     width: 130px;
-     letter-spacing: 3px;
-     border: 3px;
-     border-style: ridge;
-     border-color: #ffc0d0;
-     border-radius: 15px;
-     font-size: medium;
+    margin: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    border: 3px;
+    border-style: ridge;
+    border-color: #ffc0d0;
+    border-radius: 15px;
+    font-size: medium;
 }
 
+<link rel="preconnect"href="https://fonts.googleapis.com">
+<link rel="preconnect"href="https://fonts.gstatic.com"crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap"rel="stylesheet">
